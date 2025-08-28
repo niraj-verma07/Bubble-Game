@@ -1,4 +1,4 @@
-let timer = 6;
+let timer = 60;
 let score = 0;
 let hitRandom = 0;
 
@@ -54,4 +54,5 @@ document.querySelector(".pbottom").addEventListener("click", function(dets){
 
 makeBubble();
 runTimer();
+
 getNewHit();
