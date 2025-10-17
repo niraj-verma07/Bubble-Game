@@ -20,8 +20,6 @@ function runTimer() {
         document.querySelector(".timer").innerHTML = timer;
     }, 1000);
 
-
-
 }
 
 function getNewHit(){
